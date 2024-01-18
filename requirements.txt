@@ -1,0 +1,13 @@
+pandas==2.0.1
+streamlit==1.25.0
+streamlit-aggrid==0.3.4.post3
+streamlit-autorefresh==1.0.1
+scikit-learn==1.2.2
+numpy==1.23.2  # Compatible with pandas and scikit-learn
+seaborn==0.12.0  # Updated for compatibility with latest pandas
+matplotlib==3.6.0  # Updated for compatibility and latest features
+joblib==1.2.0  # Compatible with the latest scikit-learn
+plotly==5.16.1
+altair==5.0.1
+attrs==23.1.0
+cachetools==5.3.1
