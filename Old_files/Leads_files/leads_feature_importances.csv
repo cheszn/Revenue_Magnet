@@ -1,0 +1,44 @@
+feature,importance
+num__asymmetrique_profile_score,0.009996268
+cat__lead_origin_Landing Page Submission,0.008425744
+cat__lead_origin_Lead Add Form,0.1593279
+cat__lead_origin_Lead Import,0.0023519234
+cat__lead_origin_Quick Add Form,0.0
+cat__lead_source_Direct Traffic,0.0056193597
+cat__lead_source_Drift,0.01311389
+cat__lead_source_Facebook,0.006225624
+cat__lead_source_Google,0.004848527
+cat__lead_source_LinkedIn,0.013418235
+cat__lead_source_Organic Search,0.0025207072
+cat__lead_source_Pay per Click Ads,0.0
+cat__lead_source_Reference,0.002992786
+cat__lead_source_Referral Sites,0.0044359206
+cat__lead_source_Social Media,0.0
+cat__lead_source_bing,0.0
+cat__lead_source_blog,0.0
+cat__lead_source_google,0.0
+cat__do_not_email_Yes,0.031834308
+cat__last_activity_Converted to Lead,0.033272717
+cat__last_activity_Drift Chat Conversation,0.0012586715
+cat__last_activity_Email Bounced,0.005013808
+cat__last_activity_Email Link Clicked,0.001991312
+cat__last_activity_Email Marked Spam,0.0
+cat__last_activity_Email Opened,0.020394929
+cat__last_activity_Email Received,0.0
+cat__last_activity_Form Submitted on Website,0.0063645975
+cat__last_activity_Had a Phone Conversation,0.011110851
+cat__last_activity_Page Visited on Website,0.013399397
+cat__last_activity_SMS Sent,0.13751172
+cat__last_activity_Unreachable,0.0033467815
+cat__last_activity_Unsubscribed,0.0027222729
+cat__last_activity_View in browser link Clicked,0.0
+cat__last_activity_Visited Booth in Tradeshow,0.0
+cat__lead_quality_Low in Relevance,0.05786981
+cat__lead_quality_Might be,0.03136397
+cat__lead_quality_Not Sure,0.037977196
+cat__lead_quality_Worst,0.056309827
+cat__lead_profile_Lateral Student,0.009737971
+cat__lead_profile_Other Leads,0.0073138466
+cat__lead_profile_Potential Lead,0.2650692
+cat__lead_profile_Select,0.020106032
+cat__lead_profile_Student of SomeSchool,0.012753999

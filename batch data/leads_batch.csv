@@ -1,0 +1,16 @@
+lead_origin,lead_source,do_not_email,total_time_spent_on_website,last_activity,lead_quality,lead_profile,asymmetrique_profile_score
+API,Drift,No,0,Page Visited on Website,Low in Relevance,Select,15
+API,Organic Search,No,674,Email Opened,Might be,Select,15
+Landing Page Submission,Direct Traffic,No,1532,Email Opened,Might be,Potential Lead,20
+Landing Page Submission,Direct Traffic,No,305,Unreachable,Not Sure,Select,17
+Landing Page Submission,Google,No,1428,Converted to Lead,Might be,Select,18
+API,Drift,No,0,Drift Chat Conversation,,Select,15
+Landing Page Submission,Google,No,1640,Email Opened,Low in Relevance,Potential Lead,20
+API,Drift,No,0,Drift Chat Conversation,,Select,15
+Landing Page Submission,Direct Traffic,No,71,Email Opened,Might be,Select,14
+API,Google,No,58,Email Opened,Might be,Select,16
+Landing Page Submission,Organic Search,No,1351,Email Opened,Might be,Select,14
+Landing Page Submission,Direct Traffic,No,1343,Page Visited on Website,,Select,17
+API,Organic Search,No,1538,Email Opened,Might be,Potential Lead,16
+Landing Page Submission,Organic Search,No,170,Email Opened,Might be,Select,17
+Landing Page Submission,Direct Traffic,Yes,481,Email Bounced,Might be,Select,17
