@@ -32,12 +32,6 @@ The primary objective of the Revenue Magnet App is to empower businesses to make
 - **Altair & Plotly Express**: For creating interactive data visualizations.
 - **NumPy**: For numerical operations.
 
-## Getting Started
-To run the application:
-1. Activate the virtual environment.
-2. Navigate to the application directory.
-3. Run `streamlit run app.py`.
-
 ## Security
 The app includes a basic authentication mechanism to restrict access and protect sensitive data.
 
@@ -46,10 +40,14 @@ The app includes a basic authentication mechanism to restrict access and protect
 - Expanding the analytics dashboard for more in-depth insights.
 - Integration with live data sources for real-time data analysis.
 
+## Getting Started
 
+To run the application:
+1. Activate the virtual environment.
+2. Navigate to the application directory.
+3. Run `streamlit run app.py`.
 
 ## Set up your Environment
-
 
 
 ### **`macOS`** type the following commands : 
