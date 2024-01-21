@@ -1,5 +1,9 @@
 # Revenue Magnet App
 
+### Credentials:
+- **Username**: admin
+- **Password**: admin
+
 ## Overview
 Revenue Magnet App is a sophisticated Streamlit-based web application designed to predict outcomes in three crucial business areas: Marketing, Sales, and Customer Success. Leveraging advanced machine learning models, the application provides insights that can drive strategic business decisions, enhance marketing efforts, streamline sales processes, and optimize customer success initiatives.
 
