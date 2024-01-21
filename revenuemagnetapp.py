@@ -616,7 +616,7 @@ else:
             # Rerun the app to update the state and return to the login screen
             st.experimental_rerun()
 
-# Sidebar logout button
+# Sidebar Revenue Magent logo
 with st.sidebar:
     # Creating space using markdown (line breaks)
     st.markdown('<br>' * 2, unsafe_allow_html=True)
