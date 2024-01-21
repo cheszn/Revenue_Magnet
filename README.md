@@ -1,5 +1,7 @@
 # Revenue Magnet App
 
+**Test the App here:** https://revenuemagnetapp.streamlit.app/ 
+
 ### Credentials:
 - **Username**: admin
 - **Password**: admin
