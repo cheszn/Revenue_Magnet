@@ -61,7 +61,7 @@ selected_model = Marketing  # Default to marketing
 
 def online_input():
     global selected_model  # Declare selected_model as global to modify the global instance
-    st.header("User Input for Input features")
+    st.markdown("##### Please enter the following:")
 
     # Check the selected model
     if selected_model == Marketing:
